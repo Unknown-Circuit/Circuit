@@ -13,5 +13,5 @@ Proyek ini berisi implementasi sederhana **System Pakar (Expert System)** berbas
 
 1. **Clone Repositori**
    ```bash
-   git clone [https://github.com/USERNAME-ANDA/NAMA-REPOSITORI.git](https://github.com/USERNAME-ANDA/NAMA-REPOSITORI.git)
-   cd NAMA-REPOSITORI
+   git clone [https://github.com/Unknown-Circuit/Circuit.git](https://github.com/Unknown-Circuit/Circuit.git)
+   cd Circuit
